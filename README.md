@@ -22,7 +22,7 @@ pak::pak("jadeeechen/severance.quotes")
 
 ## Example
 
-This is a basic example which shows you how to solve a common problem:
+A quote from Mark from Season 1 Episode 1:
 
 ``` r
 library(severance.quotes)
